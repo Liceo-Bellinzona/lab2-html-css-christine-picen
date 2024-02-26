@@ -38,3 +38,6 @@ a {
     text-decoration-line: none;
 }
 
+a:hover {
+    color: hotpink;
+}
